@@ -3,9 +3,14 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>https://localhost:1313/authors/</loc>
+    <loc>https://localhost:1313/en/authors/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="zh-cn"
+      href="https://localhost:1313/authors/"
+    />
     <xhtml:link
       rel="alternate"
       hreflang="it"
@@ -18,19 +23,19 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="zh-cn"
-      href="https://localhost:1313/zh-cn/authors/"
-    />
-    <xhtml:link
-      rel="alternate"
       hreflang="en"
-      href="https://localhost:1313/authors/"
+      href="https://localhost:1313/en/authors/"
     />
   </url>
   <url>
-    <loc>https://localhost:1313/</loc>
+    <loc>https://localhost:1313/en/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="zh-cn"
+      href="https://localhost:1313/"
+    />
     <xhtml:link
       rel="alternate"
       hreflang="it"
@@ -43,19 +48,19 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="zh-cn"
-      href="https://localhost:1313/zh-cn/"
-    />
-    <xhtml:link
-      rel="alternate"
       hreflang="en"
-      href="https://localhost:1313/"
+      href="https://localhost:1313/en/"
     />
   </url>
   <url>
-    <loc>https://localhost:1313/categories/</loc>
+    <loc>https://localhost:1313/en/categories/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="zh-cn"
+      href="https://localhost:1313/categories/"
+    />
     <xhtml:link
       rel="alternate"
       hreflang="it"
@@ -68,19 +73,19 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="zh-cn"
-      href="https://localhost:1313/zh-cn/categories/"
-    />
-    <xhtml:link
-      rel="alternate"
       hreflang="en"
-      href="https://localhost:1313/categories/"
+      href="https://localhost:1313/en/categories/"
     />
   </url>
   <url>
-    <loc>https://localhost:1313/series/</loc>
+    <loc>https://localhost:1313/en/series/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="zh-cn"
+      href="https://localhost:1313/series/"
+    />
     <xhtml:link
       rel="alternate"
       hreflang="it"
@@ -93,19 +98,19 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="zh-cn"
-      href="https://localhost:1313/zh-cn/series/"
-    />
-    <xhtml:link
-      rel="alternate"
       hreflang="en"
-      href="https://localhost:1313/series/"
+      href="https://localhost:1313/en/series/"
     />
   </url>
   <url>
-    <loc>https://localhost:1313/tags/</loc>
+    <loc>https://localhost:1313/en/tags/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="zh-cn"
+      href="https://localhost:1313/tags/"
+    />
     <xhtml:link
       rel="alternate"
       hreflang="it"
@@ -118,13 +123,8 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="zh-cn"
-      href="https://localhost:1313/zh-cn/tags/"
-    />
-    <xhtml:link
-      rel="alternate"
       hreflang="en"
-      href="https://localhost:1313/tags/"
+      href="https://localhost:1313/en/tags/"
     />
   </url>
 </urlset>

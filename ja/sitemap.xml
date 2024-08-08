@@ -8,7 +8,7 @@
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
-      hreflang="en"
+      hreflang="zh-cn"
       href="https://localhost:1313/authors/"
     />
     <xhtml:link
@@ -18,8 +18,8 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="zh-cn"
-      href="https://localhost:1313/zh-cn/authors/"
+      hreflang="en"
+      href="https://localhost:1313/en/authors/"
     />
     <xhtml:link
       rel="alternate"
@@ -33,7 +33,7 @@
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
-      hreflang="en"
+      hreflang="zh-cn"
       href="https://localhost:1313/"
     />
     <xhtml:link
@@ -43,8 +43,8 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="zh-cn"
-      href="https://localhost:1313/zh-cn/"
+      hreflang="en"
+      href="https://localhost:1313/en/"
     />
     <xhtml:link
       rel="alternate"
@@ -58,7 +58,7 @@
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
-      hreflang="en"
+      hreflang="zh-cn"
       href="https://localhost:1313/categories/"
     />
     <xhtml:link
@@ -68,8 +68,8 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="zh-cn"
-      href="https://localhost:1313/zh-cn/categories/"
+      hreflang="en"
+      href="https://localhost:1313/en/categories/"
     />
     <xhtml:link
       rel="alternate"
@@ -83,7 +83,7 @@
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
-      hreflang="en"
+      hreflang="zh-cn"
       href="https://localhost:1313/series/"
     />
     <xhtml:link
@@ -93,8 +93,8 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="zh-cn"
-      href="https://localhost:1313/zh-cn/series/"
+      hreflang="en"
+      href="https://localhost:1313/en/series/"
     />
     <xhtml:link
       rel="alternate"
@@ -108,7 +108,7 @@
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
-      hreflang="en"
+      hreflang="zh-cn"
       href="https://localhost:1313/tags/"
     />
     <xhtml:link
@@ -118,8 +118,8 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="zh-cn"
-      href="https://localhost:1313/zh-cn/tags/"
+      hreflang="en"
+      href="https://localhost:1313/en/tags/"
     />
     <xhtml:link
       rel="alternate"
