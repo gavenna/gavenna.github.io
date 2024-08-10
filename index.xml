@@ -9,6 +9,16 @@
     <copyright>© 2024 涵儿</copyright>
     <lastBuildDate>Wed, 07 Aug 2024 15:52:43 +0800</lastBuildDate><atom:link href="https://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>To 涵儿</title>
+      <link>https://localhost:1313/docs/forzihan/</link>
+      <pubDate>Wed, 07 Aug 2024 15:52:43 +0800</pubDate>
+      
+      <guid>https://localhost:1313/docs/forzihan/</guid>
+      <description>This is my first post on my site</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://localhost:1313/docs/forzihan/featured.jpg" />
+    </item>
+    
+    <item>
       <title>照片回忆录</title>
       <link>https://localhost:1313/pics-photo/pics1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
