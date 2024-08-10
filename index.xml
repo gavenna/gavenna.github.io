@@ -9,13 +9,13 @@
     <copyright>© 2024 涵儿</copyright>
     <lastBuildDate>Wed, 07 Aug 2024 15:52:43 +0800</lastBuildDate><atom:link href="https://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>List</title>
-      <link>https://localhost:1313/docs/docs/list/</link>
-      <pubDate>Wed, 07 Aug 2024 15:52:43 +0800</pubDate>
+      <title>照片回忆录</title>
+      <link>https://localhost:1313/pics-photo/pics1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://localhost:1313/docs/docs/list/</guid>
-      <description>递归链表练习</description>
-      
+      <guid>https://localhost:1313/pics-photo/pics1/</guid>
+      <description>爱你千千万万遍 ------------------------------------------------------------------------------------ Previous Nextsads Previous Nextsads</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://localhost:1313/pics-photo/pics1/featured.jpg" />
     </item>
     
   </channel>

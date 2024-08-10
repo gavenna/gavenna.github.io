@@ -9,44 +9,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://localhost:1313/docs/docs/list/</loc>
-    <lastmod>2024-08-07T15:52:43+08:00</lastmod>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://localhost:1313/tags/space/</loc>
-    <lastmod>2024-08-07T15:52:43+08:00</lastmod>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://localhost:1313/tags/</loc>
-    <lastmod>2024-08-07T15:52:43+08:00</lastmod>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-      rel="alternate"
-      hreflang="it"
-      href="https://localhost:1313/it/tags/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ja"
-      href="https://localhost:1313/ja/tags/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://localhost:1313/en/tags/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="zh-cn"
-      href="https://localhost:1313/tags/"
-    />
-  </url>
-  <url>
     <loc>https://localhost:1313/</loc>
     <lastmod>2024-08-07T15:52:43+08:00</lastmod>
     <changefreq>always</changefreq>
@@ -123,6 +85,11 @@
     />
   </url>
   <url>
+    <loc>https://localhost:1313/pics-photo/</loc>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://localhost:1313/series/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
@@ -146,5 +113,35 @@
       hreflang="zh-cn"
       href="https://localhost:1313/series/"
     />
+  </url>
+  <url>
+    <loc>https://localhost:1313/tags/</loc>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="it"
+      href="https://localhost:1313/it/tags/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ja"
+      href="https://localhost:1313/ja/tags/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://localhost:1313/en/tags/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="zh-cn"
+      href="https://localhost:1313/tags/"
+    />
+  </url>
+  <url>
+    <loc>https://localhost:1313/pics-photo/pics1/</loc>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
   </url>
 </urlset>
